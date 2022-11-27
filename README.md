@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Algorithm & DS , C++17 , Game Engine**
 
-- 💬 Ask me about **Game Engine  , Application Dev , NetWorking **
+- 💬 Ask me about **Game Engine  , Application Dev , NetWorking**
 
 - 📫 How to reach me **vicky31pro@gmail.com**
 
