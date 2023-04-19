@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 
-<p align="left" style="background-color: #f2f2f2; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);">
-  <img src="https://komarev.com/ghpvc/?username=hungryvicky&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="hungryvicky" width="130" height="auto" />
-  <br>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hungryvicky&label=Profile%20views&color=9c4b9e&style=flat" alt="hungryvicky" /> </p>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
