@@ -48,9 +48,9 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://app.daily.dev/Vicky72"><img src="https://api.daily.dev/devcards/38d6feae0c35451eb8a8f4985ce28de6.png?r=oe9"  align="right"  width="320" alt="Vignesh's Dev Card"/></a>
+<a href="https://app.daily.dev/Vicky72"><img src="https://api.daily.dev/devcards/38d6feae0c35451eb8a8f4985ce28de6.png?r=oe9"  align="right"  width="400" alt="Vignesh's Dev Card"/></a>
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-72&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Vignesh-72&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-72&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-72&theme=dark&hide_border=false)
