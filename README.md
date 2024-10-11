@@ -12,7 +12,7 @@
   
 - 🔭 I’m Currently Working On [Axel IDE](https://github.com/Vignesh-72/Axel-IDE)
 
-- 🌱 I’m Currently Learning **Math**
+- 🌱 I’m Currently Learning **low-level SW ENG**
 
 - 🤝 I’m Looking For Help With [WebDeets](https://github.com/HungryVicky/WebDeets)
 
