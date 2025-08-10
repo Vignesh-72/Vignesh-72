@@ -47,7 +47,7 @@
 <br>
 <br>
 <br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" style="height: 300px; width: 300;" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" style="height: 100px; width: 300;" />
 
 # 📊 GitHub Stats:
 
