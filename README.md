@@ -9,7 +9,7 @@
 <br>
 <h3>
   
-- 🔭 I’m Currently Working On [Axel IDE](https://github.com/Vignesh-72/Axel-IDE)
+- 🔭 I’m Currently Working On [Axel DICE](https://github.com/Vignesh-72/Axel-DICE)
 
 - 🌱 I’m Currently Learning [low-level SW ENG & SDN](https://github.com/Vignesh-72)
 
@@ -48,6 +48,8 @@
 <br>
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" style="height: 100px; width: 300;" />
+<br>
+
 
 # 📊 GitHub Stats:
 
