@@ -39,15 +39,18 @@
 </p>
 
 ---
+### 📊 Performance Metrics
 
 <p align="center">
 <a href="https://app.daily.dev/Vicky72"><img src="https://api.daily.dev/devcards/38d6feae0c35451eb8a8f4985ce28de6.png?r=oe9" align="right" height="420" alt="Vignesh's Dev Card"/></a>
 </p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
-
-### 📊 Performance Metrics
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-72&theme=dark&hide_border=false" />
 </p>
 
+<br clear="both">
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
