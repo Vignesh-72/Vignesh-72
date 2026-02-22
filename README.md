@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Open_Source-333333?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Box--to--Box_Engineer-EF0107?style=flat" />
+  <img src="https://img.shields.io/badge/-Architectural_Libero-004D98?style=flat&logo=target" />
   <img src="https://img.shields.io/badge/-High_xG_Developer-red?style=flat" />
 </p>
 
