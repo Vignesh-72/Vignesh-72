@@ -11,7 +11,7 @@
 <br>
 
 ### 🏟️ The Scouting Report
-“I’m Vignesh, an open-source developer operating as a **Box-to-Box Engineer**. Covering every blade of grass—from Desktop and Mobile to Web and Plugins—I approach system architecture like a **high defensive line**. I fine-tune packet switching and **React reconciliation** so no counter-attack (latency spikes) catches us off guard, keeping our **xG (Expected Greatness)** elite.”
+“I’m Vignesh, an open-source developer operating as an **Architectural Libero**. Covering every blade of grass—from Desktop and Mobile to Web and Plugins—I approach system architecture like a **high defensive line**. I fine-tune packet switching and **React reconciliation** so no counter-attack (latency spikes) catches us off guard, keeping our **xG (Expected Greatness)** elite.”
 
 * 📫 **Transfer Inquiries:** [vicky31pro@gmail.com](mailto:vicky31pro@gmail.com)
 <br><br><br><br>
