@@ -3,15 +3,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Open_Source-333333?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Low_Level_Trenches-004D98?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/-DWARF_Harasser-red?style=flat" />
+  <img src="https://img.shields.io/badge/-PWA_&_AI IOT_Apps-grey?style=flat&logo=probot" />
+  <img src="https://img.shields.io/badge/-Solo_Show-red?style=flat&logo=dependabot" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <br>
 
-### 🏟️ From the Trenches
-rotting in the low-level abyss stalking IR lowering and gaslighting ELFs, open-sourcing across mobile, web, and plugins is my thing. repos public if you’re bored and tryna suffer too
+### 🏟️ Just look below, I guess
+the repos contain open-source stuff for mobile, web, plugins, AI, and security tools. Look, if you clone this and it breaks your entire setup, that is between you and God. I just hit commit,sending thoughts and prayers, mate.
 * 📫 **Inquiries:** [vicky31pro@gmail.com](mailto:vicky31pro@gmail.com)
 <br><br><br><br>
 ---
