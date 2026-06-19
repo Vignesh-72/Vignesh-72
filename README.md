@@ -3,17 +3,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Open_Source-333333?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Architectural_Libero-004D98?style=flat&logo=target" />
-  <img src="https://img.shields.io/badge/-High_xG_Developer-red?style=flat" />
+  <img src="https://img.shields.io/badge/-Low_Level_Trenches-004D98?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-DWARF_Harasser-red?style=flat" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <br>
 
-### 🏟️ The Scouting Report
-“I’m Vignesh, an open-source developer operating as an **Architectural Libero**. Covering every blade of grass—from Desktop and Mobile to Web and Plugins—I approach system architecture like a **high defensive line**. I fine-tune packet switching and **React reconciliation** so no counter-attack (latency spikes) catches us off guard, keeping our **xG (Expected Greatness)** elite.”
-
-* 📫 **Transfer Inquiries:** [vicky31pro@gmail.com](mailto:vicky31pro@gmail.com)
+### 🏟️ From the Trenches
+rotting in the low-level abyss stalking IR lowering and gaslighting ELFs, open-sourcing across mobile, web, and plugins is my thing. repos public if you’re bored and tryna suffer too
+* 📫 **Inquiries:** [vicky31pro@gmail.com](mailto:vicky31pro@gmail.com)
 <br><br><br><br>
 ---
 
