@@ -47,7 +47,7 @@ the repos contain open-source stuff for mobile, web, plugins, AI, and security t
 ### 📊 Performance Metrics
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-72&theme=dark&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-72&theme=dark&hide_border=false"/>
 </p>
 
 <br clear="both">
