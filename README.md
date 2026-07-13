@@ -13,18 +13,20 @@
 ### 🏟️ Just look below, I guess
 the repos contain open-source stuff for mobile, web, plugins, AI, and security tools. Look, if you clone this and it breaks your entire setup, that is between you and God. I just hit commit,sending thoughts and prayers, mate.
 * 📫 **Inquiries:** [vicky31pro@gmail.com](mailto:vicky31pro@gmail.com)
-<br><br><br><br>
+<br><br><br><br><br>
 ---
 
 ### 🔗 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/vignesh-sara" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/19706447/hungryspike" target="blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://instagram.com/vicky__v72" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/vicky31pro" target="blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://sourceforge.net/u/vignesh72/profile" target="_blank" rel="noopener noreferrer">
   <img alt="SourceForge" src="https://img.shields.io/badge/SourceForge-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white" />
 </a>
+  <a href="https://instagram.com/vicky__v72" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/vicky31pro" target="blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/19706447/hungryspike" target="blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+
+
 </p>
 
 ### 🛠️ The Tactical Toolbox (Languages & Tools):
